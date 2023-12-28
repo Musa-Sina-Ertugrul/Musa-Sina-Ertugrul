@@ -22,6 +22,14 @@
 <br>
 
 * 📫 How to reach me: m.s.ertugrul@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/musa-sina-ertu%C4%9Frul-922416229/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" height="50px" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
@@ -52,3 +60,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
 </p>
+<div align="center">
+   <h1><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />You Reached The Bottom <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1> 
+</div>
