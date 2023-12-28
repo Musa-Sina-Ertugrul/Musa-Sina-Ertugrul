@@ -28,4 +28,5 @@
   <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=rust" width="200px" height="200px"/>
   </a>
+<h1 align="center">:crab: Lets Get Rusty :crab:</h1>
 </p>
