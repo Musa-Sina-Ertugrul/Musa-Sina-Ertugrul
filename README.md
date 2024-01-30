@@ -18,7 +18,7 @@
 
 <br>
 
-* 🌱 I’m currently learning: AI, ML, DL, DRL, RL, Data Science, Computer Science, Python, Rust, Programming and Math
+* 🌱 I’m currently learning: Data Science, Computer Science, Python, Rust, Programming and Math
 <br>
 
 * 📫 How to reach me: m.s.ertugrul@gmail.com
