@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-* 🔭 I’m currently working or helping on the Qiskit repo and TUBITAK 2209-A
+* 🔭 I’m currently working or helping on the IBM Qiskit Repo, Google temporian Repo and TUBITAK 2209-A
 
 <br>
 
