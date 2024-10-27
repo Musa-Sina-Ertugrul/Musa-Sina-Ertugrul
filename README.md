@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-* 🔭 I’m currently working or helping on the IBM Qiskit Repo
+* 🔭 I’m currently studying on AI Architecture
 
 <br>
 
@@ -53,9 +53,8 @@
 <p align="center"><h1 align="center">Wants to Learn 🔎</h1></p>
 <p align="center">
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=rust" width="200px" height="200px"/>
+    <img src="https://skillicons.dev/icons?i=c" width="200px" height="200px"/>
   </a>
-<h1 align="center">:crab: Lets Get Rusty :crab:</h1>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
