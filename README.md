@@ -46,16 +46,15 @@
 </p>
 
 <p align="center"><h1 align="center">Most Used Language 💪</h1></p>
-<p align="center">
-  <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="200px" height="200px"></a>
+
+![a](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch&theme=dark)
+
+<p align="center"><h1 align="center">Wants to Learn 🔎</h1>
+
+![a](https://go-skill-icons.vercel.app/api/icons?i=c,cuda&theme=dark)
+
 </p>
 
-<p align="center"><h1 align="center">Wants to Learn 🔎</h1></p>
-<p align="center">
-  <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=c" width="200px" height="200px"/>
-  </a>
-</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
 </p>
