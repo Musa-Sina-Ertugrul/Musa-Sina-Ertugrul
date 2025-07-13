@@ -14,11 +14,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-* 🔭 I’m currently studying on AI Architecture
+* 🔭 I’m currently studying on AI Theory
 
 <br>
 
-* 🌱 I’m currently learning: Data Science, Computer Science, Python, Programming and Math
+* 🌱 I’m currently learning: Topological Deep Learning, AI Architectures, AI Algorithms, PyTorch, Maths
 <br>
 
 * 📫 How to reach me: m.s.ertugrul@gmail.com
